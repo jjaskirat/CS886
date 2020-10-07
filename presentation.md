@@ -4,10 +4,10 @@
     Yiwei Lu   
     zoom (Tu 9-12)   
     
- *   title   
-    author   
-    presenter   
-    pre-record or zoom (preferred time)    
+ *   title: Causal Regularization
+    author: Dominik Janzing
+    presenter: Jaskirat Singh Bhatia
+    pre-record or zoom (preferred time): pre-recorded  
     
  *   title: Few-shot Domain Adaptation by Causal Mechanism Transfer   
     author: Takeshi Teshima, Issei Sato, Masashi Sugiyama   
